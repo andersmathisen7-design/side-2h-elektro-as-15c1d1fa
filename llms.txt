@@ -1,0 +1,15 @@
+# 2h Elektro AS
+
+- Bransje: Elektrisk installasjonsarbeid
+- Sted: Fagerstrand
+- E-post: post@2helektro.no
+- Telefon: 468 22 166
+
+## Tjenester
+
+- Elinstallasjon i nybygg: Elektrisk anlegg i nye boliger og næringsbygg, lagt opp etter hvordan bygget skal brukes.
+- Oppgradering av elanlegg: Når anlegget du har i dag skal utvides eller fornyes, i bolig eller bedrift.
+
+## Om nettsiden
+
+Laget av Nettsideferdig (https://nettsideferdig.no/).
